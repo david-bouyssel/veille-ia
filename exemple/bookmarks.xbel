@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<!-- Données d'exemple : utilisées tant que bookmarks.xbel n'existe pas à la racine du dépôt. -->
+<xbel version="1.0">
+  <folder id="1">
+    <title>Fondamentaux</title>
+    <bookmark href="https://arxiv.org/abs/1706.03762" id="2" added="2025-01-12T09:00:00Z">
+      <title>Attention Is All You Need</title>
+      <desc>L'article fondateur des Transformers.</desc>
+    </bookmark>
+    <bookmark href="https://jalammar.github.io/illustrated-transformer/" id="3">
+      <title>The Illustrated Transformer</title>
+    </bookmark>
+  </folder>
+  <folder id="4">
+    <title>Agents</title>
+    <bookmark href="https://www.anthropic.com/research/building-effective-agents" id="5">
+      <title>Building effective agents</title>
+    </bookmark>
+    <folder id="6">
+      <title>Protocoles</title>
+      <bookmark href="https://modelcontextprotocol.io/" id="7">
+        <title>Model Context Protocol</title>
+        <desc>Standard ouvert pour connecter des outils aux modèles.</desc>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="8">
+    <title>Outils &amp; modèles</title>
+    <bookmark href="https://huggingface.co/" id="9">
+      <title>Hugging Face</title>
+    </bookmark>
+    <bookmark href="https://ollama.com/" id="10">
+      <title>Ollama</title>
+      <desc>Faire tourner des modèles en local.</desc>
+    </bookmark>
+  </folder>
+</xbel>

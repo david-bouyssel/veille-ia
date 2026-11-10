@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Veille IA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="entete">
+    <div class="largeur">
+      <h1 id="titre">Veille IA</h1>
+      <p id="description" class="description"></p>
+      <p id="meta" class="meta"></p>
+      <p id="bandeau-exemple" class="bandeau" hidden>
+        Données d'exemple : synchronisez votre dossier de favoris avec Floccus pour les remplacer.
+      </p>
+    </div>
+  </header>
+
+  <div class="barre">
+    <div class="largeur barre-contenu">
+      <input id="recherche" type="search" placeholder="Rechercher un lien, un texte…" aria-label="Rechercher">
+      <div class="actions">
+        <button id="tout" type="button">Tout cocher</button>
+        <button id="rien" type="button">Tout décocher</button>
+        <button id="telecharger" type="button" class="primaire" disabled>Télécharger la sélection</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="largeur">
+    <div id="arbre" class="arbre" aria-live="polite"><p class="vide">Chargement…</p></div>
+
+    <details class="aide">
+      <summary>Comment importer le fichier dans mon navigateur ?</summary>
+      <ul>
+        <li><strong>Firefox</strong> : Ctrl+Maj+O (Bibliothèque) → Importation et sauvegarde → Importer des marque-pages au format HTML.</li>
+        <li><strong>Chrome, Brave, Vivaldi</strong> : ouvrir <code>chrome://bookmarks</code> → menu ⋮ → Importer les favoris.</li>
+        <li><strong>Edge</strong> : ouvrir <code>edge://favorites</code> → menu … → Importer des favoris → Fichier HTML des favoris.</li>
+        <li><strong>Opera</strong> : ouvrir <code>opera://settings/importData</code> → Fichier HTML des signets.</li>
+        <li><strong>Safari</strong> : Fichier → Importer depuis → Fichier HTML de signets.</li>
+      </ul>
+      <p>Les liens arrivent dans un dossier à part : vos favoris existants ne sont pas modifiés.
+        Pour une mise à jour, supprimez l'ancien dossier puis réimportez.</p>
+    </details>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
