@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :100: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>How to prompt</title>
+  <bookmark href="https://www.promptingguide.ai/fr/techniques/knowledge" id="6">
+    <title>Self-Consistency | Prompt Engineering Guide</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Copilot</title>
+  <folder id="7">
+    <title>Office hours</title>
+    <bookmark href="https://www.youtube.com/playlist?list=PLbl2SbVIi-WqoUE0LIuoigZGijKAOVKgy" id="35">
+      <title>(3) 🥐 GitHub Copilot Office Hours - YouTube</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://moaw.dev/workshop/gh:Philess/GHCopilotHoL/main/docs/?step=0" id="9">
+    <title>GitHub Copilot, your new AI pair programmer - The ultimate GitHub Copilot Tutorial for developers</title>
+  </bookmark>
+  <bookmark href="https://docs.github.com/fr/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli" id="10">
+    <title>Installation du CLI GitHub Copilot - GitHub Docs</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/fr-fr/visualstudio/ide/copilot-agent-mode?view=visualstudio" id="11">
+    <title>Utiliser le mode Agent - Visual Studio (Windows) | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://guigui42.github.io/copilot-panorama/" id="12">
+    <title>Copilot Panorama — .github/ Stack</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@tug-grall/videos" id="13">
+    <title>Tug on Dev! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://inventivehq.com/knowledge-base/copilot/how-to-integrate-cicd" id="14">
+    <title>How to Integrate GitHub Copilot CLI into CI/CD Pipelines | Inventive HQ</title>
+  </bookmark>
+  <bookmark href="https://docs.github.com/en/copilot/reference/copilot-allowlist-reference" id="15">
+    <title>Copilot allowlist reference - GitHub Docs</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Instructions, skills...</title>
+  <bookmark href="https://app.livestorm.co/packmind/context-engineering-pour-agents-ia-instructions-skills-commands-et-custom-agents/live?s=9a5c476b-b5ef-42c0-8d33-00ae83ebb6b6#/" id="16">
+    <title>Context Engineering pour Agents IA : Instructions, Skills, Commands et Custom Agents | Packmind Webinars</title>
+  </bookmark>
+  <bookmark href="https://github.com/github/awesome-copilot" id="17">
+    <title>github/awesome-copilot: Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.</title>
+  </bookmark>
+  <bookmark href="https://skills.sh/" id="18">
+    <title>The Agent Skills Directory</title>
+  </bookmark>
+  <bookmark href="https://agentskills.io/home" id="19">
+    <title>Agent Skills Overview - Agent Skills</title>
+  </bookmark>
+  <bookmark href="https://github.com/anthropics/skills" id="20">
+    <title>anthropics/skills: Public repository for Agent Skills</title>
+  </bookmark>
+  <bookmark href="https://awesome-copilot.github.com/" id="21">
+    <title>Awesome GitHub Copilot | Awesome GitHub Copilot</title>
+  </bookmark>
+  <bookmark href="https://github.com/obra/superpowers" id="22">
+    <title>obra/superpowers: An agentic skills framework &amp; software development methodology that works.</title>
+  </bookmark>
+  <bookmark href="https://www.deployhq.com/blog/ai-coding-config-files-guide" id="23">
+    <title>CLAUDE.md, AGENTS.md &amp; Copilot Instructions: Configure Every AI Coding Assistant</title>
+  </bookmark>
+  <bookmark href="https://blog.nimblepros.com/blogs/next-level-ai-instructions/" id="24">
+    <title>Next Level AI Coding Agents - Instructions Files | NimblePros Blog</title>
+  </bookmark>
+  <bookmark href="https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills" id="25">
+    <title>Equipping agents for the real world with Agent Skills \ Anthropic</title>
+  </bookmark>
+  <bookmark href="https://agencyagents.dev/" id="39">
+    <title>Agency Agents</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Context engineering, harness</title>
+  <bookmark href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents" id="26">
+    <title>Effective context engineering for AI agents \ Anthropic</title>
+  </bookmark>
+  <bookmark href="https://github.com/jasontang-ai/Context-Engineering" id="27">
+    <title>jasontang-ai/Context-Engineering: &quot;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&quot; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.</title>
+  </bookmark>
+  <bookmark href="https://www.langchain.com/blog/the-rise-of-context-engineering" id="28">
+    <title>The rise of &quot;context engineering&quot;</title>
+  </bookmark>
+  <bookmark href="https://martinfowler.com/articles/harness-engineering.html" id="29">
+    <title>Harness engineering for coding agent users</title>
+  </bookmark>
+  <bookmark href="https://addyosmani.com/blog/agent-harness-engineering/" id="30">
+    <title>AddyOsmani.com - Agent Harness Engineering</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Orchestration</title>
+  <bookmark href="https://github.com/oussamaAbdelhediPro/agents-orchestration" id="32">
+    <title>oussamaAbdelhediPro/agents-orchestration</title>
+  </bookmark>
+  <bookmark href="https://code.claude.com/docs/fr/agent-teams#comparer-avec-les-subagents" id="33">
+    <title>Orchestrer des équipes de sessions Claude Code - Claude Code Docs</title>
+  </bookmark>
+</folder>
+<folder id="40">
+  <title>MCP / RAG</title>
+  <bookmark href="https://cloud.google.com/discover/what-is-model-context-protocol?hl=frn" id="41">
+    <title>Qu&apos;est-ce que le protocole MCP (Model Context Protocol) ? Guide | Google Cloud</title>
+  </bookmark>
+  <bookmark href="https://modelcontextprotocol.io/docs/getting-started/intro" id="42">
+    <title>What is the Model Context Protocol (MCP)? - Model Context Protocol</title>
+  </bookmark>
+  <bookmark href="https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=fr" id="43">
+    <title>Qu&apos;est-ce que la génération augmentée de récupération (RAG) ? | Google Cloud</title>
+  </bookmark>
+  <bookmark href="https://blog.stephane-robert.info/docs/developper/programmation/python/rag-introduction/" id="44">
+    <title>RAG : augmenter un LLM avec vos données</title>
+  </bookmark>
+</folder>
+<folder id="45">
+  <title>LLM</title>
+  <bookmark href="https://ollama.com/" id="46">
+    <title>Ollama</title>
+  </bookmark>
+  <bookmark href="https://www.litellm.ai/" id="47">
+    <title>LiteLLM</title>
+  </bookmark>
+  <bookmark href="https://github.com/vllm-project/vllm" id="48">
+    <title>GitHub - vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs · GitHub</title>
+  </bookmark>
+  <bookmark href="https://docs.vllm.ai/en/latest/" id="49">
+    <title>vLLM</title>
+  </bookmark>
+  <bookmark href="https://github.com/Andyyyy64/whichllm" id="50">
+    <title>Andyyyy64/whichllm: Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.</title>
+  </bookmark>
+</folder>
+<folder id="51">
+  <title>Vibe coding</title>
+  <bookmark href="https://serena-app.com/blog/vibe-coding-sante-mentale-developpeurs" id="52">
+    <title>Vibe Coding et Santé Mentale : Quand Coder avec l&apos;IA Épuise le Cerveau (2026)</title>
+  </bookmark>
+</folder>
+<folder id="53">
+  <title>OpenCode</title>
+  <bookmark href="https://opencode.ai/docs/fr" id="54">
+    <title>Introduction | OpenCode</title>
+  </bookmark>
+  <bookmark href="https://github.com/athal7/opencode-devcontainers" id="55">
+    <title>GitHub - athal7/opencode-devcontainers: Run multiple devcontainer instances with auto-assigned ports for OpenCode</title>
+  </bookmark>
+</folder>
+<folder id="56">
+  <title>Sécurité / Guardrails</title>
+  <bookmark href="https://incidentdatabase.ai/" id="57">
+    <title>Welcome to the Artificial Intelligence Incident Database</title>
+  </bookmark>
+  <bookmark href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" id="58">
+    <title>OWASP Top 10 for Large Language Model Applications | OWASP Foundation</title>
+  </bookmark>
+  <bookmark href="https://owasp.org/www-project-mcp-top-10/" id="59">
+    <title>OWASP MCP Top 10 | OWASP Foundation</title>
+  </bookmark>
+  <bookmark href="https://owasp.org/www-project-agentic-skills-top-10/" id="60">
+    <title>OWASP Agentic Skills Top 10 | OWASP Foundation</title>
+  </bookmark>
+  <bookmark href="https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/" id="61">
+    <title>OWASP Top 10 for Agentic Applications for 2026 - OWASP Gen AI Security Project</title>
+  </bookmark>
+  <bookmark href="https://guardrailsai.com/hub" id="62">
+    <title>Guardrails Hub | Guardrails AI</title>
+  </bookmark>
+</folder>
+<folder id="63">
+  <title>Improving AI consumption</title>
+  <bookmark href="https://hackernoon.com/the-solo-developers-hyper-productivity-stack-opencode-graphify-and-cloud-run" id="64">
+    <title>The Solo Developer’s Hyper-Productivity Stack: OpenCode, Graphify, and Cloud Run | HackerNoon</title>
+  </bookmark>
+  <bookmark href="https://github.com/safishamsi/graphify" id="65">
+    <title>safishamsi/graphify: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.</title>
+  </bookmark>
+  <bookmark href="https://github.com/safishamsi/graphify/issues/134" id="66">
+    <title>add copilot cli support · Issue #134 · safishamsi/graphify</title>
+  </bookmark>
+  <bookmark href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f" id="67">
+    <title>llm-wiki</title>
+  </bookmark>
+  <bookmark href="https://github.com/github/awesome-copilot/blob/2e7c43b1f5bdf3695a79e0f2fd92648bcf4a389f/instructions/caveman-mode.instructions.md#L4" id="68">
+    <title>awesome-copilot/instructions/caveman-mode.instructions.md at 2e7c43b1f5bdf3695a79e0f2fd92648bcf4a389f · github/awesome-copilot</title>
+  </bookmark>
+  <bookmark href="https://github.com/juliusbrussee/caveman" id="69">
+    <title>JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</title>
+  </bookmark>
+  <bookmark href="https://github.com/rtk-ai/rtk" id="70">
+    <title>rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</title>
+  </bookmark>
+  <bookmark href="https://github.com/colbymchenry/codegraph" id="71">
+    <title>colbymchenry/codegraph: Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</title>
+  </bookmark>
+  <bookmark href="https://codeburn.app/" id="72">
+    <title>CodeBurn - See where your AI coding tokens go</title>
+  </bookmark>
+  <bookmark href="https://github.com/DietrichGebert/ponytail" id="73">
+    <title>DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</title>
+  </bookmark>
+</folder>
+<folder id="74">
+  <title>Comparatifs</title>
+  <bookmark href="https://artificialanalysis.ai/" id="75">
+    <title>AI Model &amp; API Providers Analysis | Artificial Analysis</title>
+  </bookmark>
+  <bookmark href="https://arena.ai/leaderboard" id="76">
+    <title>Arena Leaderboard | Compare &amp; Benchmark the Best Frontier AI Models</title>
+  </bookmark>
+  <bookmark href="https://llm-stats.com/" id="77">
+    <title>AI Leaderboard 2026 - Compare Top AI Models &amp; Rankings</title>
+  </bookmark>
+  <bookmark href="https://openrouter.ai/compare" id="78">
+    <title>AI Model Comparison | OpenRouter</title>
+  </bookmark>
+</folder>
+<folder id="79">
+  <title>ADR</title>
+  <bookmark href="https://blog.stephane-robert.info/docs/documenter/concevoir/adr/#quest-ce-quun-adr" id="80">
+    <title>Architecture Decision Records (ADR) : tracer vos choix</title>
+  </bookmark>
+</folder>
+<folder id="83">
+  <title>Creation jeux</title>
+  <bookmark href="https://github.com/OpusGameLabs/game-creator" id="84">
+    <title>OpusGameLabs/game-creator: Opinionated Claude Plugin to make 2D (Phaser) &amp; 3D (ThreeJS) Games</title>
+  </bookmark>
+  <bookmark href="https://itch.io/game-assets/top-rated/free/genre-platformer" id="85">
+    <title>Top rated free Platformer game assets - itch.io</title>
+  </bookmark>
+  <bookmark href="https://ansimuz.itch.io/gothicvania-patreon-collection" id="86">
+    <title>Ansimuz Legacy Collection by ansimuz</title>
+  </bookmark>
+  <bookmark href="https://rosebud.ai/#browse-games-section" id="87">
+    <title>Rosebud AI: Make 3D Games &amp; Worlds with Vibe Coding</title>
+  </bookmark>
+  <bookmark href="https://arcade.makecode.com/" id="88">
+    <title>Microsoft MakeCode Arcade</title>
+  </bookmark>
+</folder>
+<folder id="89">
+  <title>Apprendre a coder</title>
+  <bookmark href="https://github.com/janvanwassenhove/PiBeat" id="90">
+    <title>janvanwassenhove/PiBeat</title>
+  </bookmark>
+</folder>
+<folder id="91">
+  <title>Articles intéressants</title>
+  <bookmark href="https://medium.com/beyond-the-code-by-typo/ai-driven-sdlc-the-future-of-software-development-3f1e6985deef" id="92">
+    <title>AI-Driven SDLC: The Future of Software Development | by typo | The Typo Diaries | Medium</title>
+  </bookmark>
+</folder>
+<folder id="93">
+  <title>Personnes à suivre</title>
+  <bookmark href="https://github.com/Ch0wseth" id="94">
+    <title>Ch0wseth (Emmanuelle Hemmer)</title>
+  </bookmark>
+  <bookmark href="https://github.com/tgrall" id="95">
+    <title>tgrall (Tugdual Grall)</title>
+  </bookmark>
+</folder>
+<folder id="96">
+  <title>Utils divers IA</title>
+  <bookmark href="https://mikeveerman.github.io/tokenspeed/?rate=30&amp;mode=text" id="97">
+    <title>tokenspeed — feel LLM tokens-per-second</title>
+  </bookmark>
+</folder>
+<folder id="98">
+  <title>Utils divers non IA mais liés</title>
+  <bookmark href="https://github.com/refactoringhq/tolaria/tree/main" id="99">
+    <title>refactoringhq/tolaria: Desktop app to manage markdown knowledge bases</title>
+  </bookmark>
+</folder>
+</xbel>
